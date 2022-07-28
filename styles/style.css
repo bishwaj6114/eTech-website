@@ -1,0 +1,13 @@
+.body-font{
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    color: #777777;
+}
+
+.btn-nav{
+    background-color: #FFFFFF;
+    border: 1px solid #289BDE;
+    padding: 5px 30px;
+    color: #289BDE;
+}
